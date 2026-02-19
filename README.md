@@ -44,6 +44,7 @@ TripEase allows users to plan trips, track expenses, view dashboard analytics, a
 * Destination-based AI advice
 * Budget & preference-aware recommendations
 * Gemini API integration (with fallback logic)
+<img width="1886" height="870" alt="image" src="https://github.com/user-attachments/assets/e960b27a-4c51-4135-b02f-fe3b97844b02" />
 
 ---
 
