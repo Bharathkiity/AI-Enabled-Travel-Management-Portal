@@ -1,19 +1,8 @@
-# AI-Enabled-Travel-Management-Portal
+<img width="1895" height="875" alt="image" src="https://github.com/user-attachments/assets/12555338-37d0-47cd-ace5-73ba880f6821" /># AI-Enabled-Travel-Management-Portal
 Production-ready Travel Management System with JWT security, expense tracking, dashboard analytics, and AI-powered travel recommendations.
-Perfect Bharath 🔥
-Here is a clean, professional, production-ready README.md for your project.
-
-You can copy and paste directly into `README.md`.
-
----
-
- 🌍 TripEase – AI Enabled Travel Management Portal
-
 A full-stack AI-powered Travel Management System built using Spring Boot 3.2 + React + MySQL + JWT Authentication.
-
 TripEase allows users to plan trips, track expenses, view dashboard analytics, and receive AI-based travel recommendations.
 
----
 
  🚀 Features
 
